@@ -95,7 +95,7 @@ console.log(matrix);
 
 #
 
-###Further Enhancements and Possibilities:
+### Further Enhancements and Possibilities:
 
 The **wca-scramble-to-matrix** library has potential for further expansion and integration with other tools and functionalities. Here are some ideas for future enhancements:
 
