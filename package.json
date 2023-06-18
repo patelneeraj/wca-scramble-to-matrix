@@ -1,6 +1,6 @@
 {
   "name": "wca-scramble-to-matrix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "wca-scramble-to-matrix is a JavaScript library that provides utility functions for generating matrix representations of various Rubik's Cubes. It supports cubes ranging from 2x2 to 7x7. Each cube-specific function takes a scramble as input and returns a matrix representing the current state of the cube.",
   "main": "wca-scramble-to-matrix.js",
   "scripts": {
